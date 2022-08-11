@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/order-summary-component-HJArfATt59
 - Live Site URL: https://order-summary-component-ls.netlify.app/
 
 ## My process
